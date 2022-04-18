@@ -1,4 +1,4 @@
-<h3 align="center">Konichiwa, I'm Adityarup Datta! 👋 </h3>
+<h3 align="center">Konnichiwa, I'm Adityarup Datta! 👋 </h3>
 
 <h3 align="center"><img src="https://gifimage.net/wp-content/uploads/2017/10/hi-anime-gif-11.gif"  ></h3>
 
