@@ -16,11 +16,11 @@
 - 😄 Pronouns: He/His ...
 - ⚡ Fun fact **I play games and like watch animes very often.**
 
-[](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker&theme=dark)]
 
 ## 📊 My Github Stats
 
-[](https://github-readme-stats.vercel.app/api?username=addycracker)
+[![](https://github-readme-stats.vercel.app/api?username=addycracker)]
  
  
  
