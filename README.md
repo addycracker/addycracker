@@ -33,7 +33,7 @@
 
 
 ## Adityarup's github activity graph
-[![Adityarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)]
+[![Adityarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)
 <br/>
 <br/>
 
