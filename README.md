@@ -32,8 +32,8 @@
 
 
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)](https://github.com/addycracker/github-readme-activity-graph)
+## Adityarup's github activity graph
+[![Adityarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)](https://github.com/addycracker/github-readme-activity-graph)
 
 <br/>
 <br/>
