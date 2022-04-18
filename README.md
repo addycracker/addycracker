@@ -20,7 +20,7 @@
 
 
 ## 📊 My Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)](https://github.com/addycracker/github-readme-streak-stats)
   <br/>
     <a href="https://github.com/addycracker/github-readme-stats"><img alt="Adityarup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=addycracker28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/addycracker/github-readme-stats"><img alt="Adityarup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
