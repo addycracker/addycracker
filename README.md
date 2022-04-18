@@ -21,17 +21,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)](https://github.com/addycracker/github-readme-streak-stats)
 
 ## 📊 My Github Stats
-<br>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addycracker)](https://github.com/addycracker/github-readme-stats)
- </br>
- <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)
-</br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)
+
+ 
 
 
-<br/>
-<br/>
+
 
 <a href="https://github.com/addycracker/github-readme-activity-graph"><img alt="Adityarup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=addycracker28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
