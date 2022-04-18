@@ -1,9 +1,6 @@
 ### Konichiwa, I'm Adityarup Datta! 👋
 
-<img src="https://camo.githubusercontent.com/6504d186672264e71c30a4e0102a7079e0fc0393b0ff8d8ed6a4841e92559e62/68747470733a2f2f677076632e6172747572696f2e6465762f46616e746f58303031">
-<a href="#"><img width="100%" height="auto" src="https://gifimage.net/wp-content/uploads/2017/10/hi-anime-gif-11.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Cyber security researcher from India.</h3>
 
 
