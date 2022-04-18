@@ -57,7 +57,7 @@
 
 
 ## Adityarup's github activity graph
-<img src="https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula">
+[![github-activity-graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)]
 <br/>
 <br/>
 
