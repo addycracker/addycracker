@@ -20,7 +20,7 @@
 
 ## 📊 My Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=addycracker>
+ <img src="https://github-readme-stats.vercel.app/api?username=addycracker">
  
  
  
