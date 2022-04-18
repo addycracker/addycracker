@@ -16,25 +16,24 @@
 - 😄 Pronouns: He/His ...
 - ⚡ Fun fact **I play games and like watch animes very often.**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)](https://github.com/addycracker/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker)]
 
 ## 📊 My Github Stats
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addycracker)](https://github.com/addycracker/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addycracker)]
  
  
  
  
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)]
 
  
 
 
 
 ## Adityarup's github activity graph
-[![Adityarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)](https://github.com/addycracker/github-readme-activity-graph)
-
+[![Adityarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)]
 <br/>
 <br/>
 
