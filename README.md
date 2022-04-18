@@ -1,4 +1,4 @@
-### Konichiwa, I'm Adityarup Datta! 👋
+<h3 align="center">Konichiwa, I'm Adityarup Datta! 👋 </h3>
 
 
 <h3 align="center">I'm a passionate Cyber security researcher from India.</h3>
@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on LinkedIn...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python,Java or any tech related stuff...
-- 
 - 😄 Pronouns: He/His ...
 - ⚡ Fun fact **I play games and like watch animes very often.**
 
