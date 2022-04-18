@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=addycracker&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://camo.githubusercontent.com/6504d186672264e71c30a4e0102a7079e0fc0393b0ff8d8ed6a4841e92559e62/68747470733a2f2f677076632e6172747572696f2e6465762f46616e746f58303031">
