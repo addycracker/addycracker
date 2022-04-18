@@ -1,6 +1,6 @@
 <h3 align="center">Konichiwa, I'm Adityarup Datta! 👋 </h3>
 
-<img src="https://gifimage.net/wp-content/uploads/2017/10/hi-anime-gif-11.gif" >
+<img src="https://gifimage.net/wp-content/uploads/2017/10/hi-anime-gif-11.gif" align="center" >
 
 
 <h3 align="center">I'm a passionate Cyber security researcher from India.</h3>
