@@ -22,10 +22,9 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/addycracker/github-readme-stats"><img alt="Adityarup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=addycracker28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)
-  <br/>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
