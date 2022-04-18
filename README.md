@@ -33,7 +33,7 @@
 
 
 
-<a href="https://github.com/addycracker/github-readme-activity-graph"><img alt="Adityarup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=addycracker28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)](https://github.com/addycracker/github-readme-activity-graph)
 
 <br/>
 <br/>
