@@ -16,11 +16,11 @@
 - 😄 Pronouns: He/His ...
 - ⚡ Fun fact **I play games and like watch animes very often.**
 
-[![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker&theme=dark)]
+![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker&theme=dark)
 
 ## 📊 My Github Stats
 
-[![github-status](https://github-readme-stats.vercel.app/api?username=addycracker)]
+![github-status](https://github-readme-stats.vercel.app/api?username=addycracker)
  
  
 ## 🚀 Languages and Tools:
@@ -50,14 +50,16 @@
 <br/> 
  
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-[![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)]
+
+![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)
 
  
 
 
 
 ## Adityarup's github activity graph
-[![github-activity-graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)]
+
+![github-activity-graph](https://activity-graph.herokuapp.com/graph?username=addycracker&theme=dracula)
 <br/>
 <br/>
 
