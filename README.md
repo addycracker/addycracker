@@ -21,7 +21,7 @@
 
 ![github-status](https://github-readme-stats.vercel.app/api?username=addycracker)
 
-# My Github Status:
+
 
 <br>
 My Trophies:
