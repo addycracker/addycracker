@@ -34,7 +34,7 @@ My Trophies:
 ## 📊 My Github Stats
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=addycracker&show_icons=true&theme=vision-friendly-dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)<br>
+
 ![My Profile Views](https://gpvc.arturio.dev/addycracker)
 <br>
 <br>
