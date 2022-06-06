@@ -17,9 +17,9 @@
 
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=addycracker&theme=dark)
 
-## 📊 My Github Stats
 
-![github-status](https://github-readme-stats.vercel.app/api?username=addycracker)
+
+
 
 
 
@@ -30,6 +30,8 @@ My Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+
+## 📊 My Github Stats
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=addycracker&show_icons=true&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addycracker&layout=compact)](https://github.com/addycracker/github-readme-stats)<br>
