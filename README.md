@@ -35,7 +35,6 @@ My Trophies:
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=addycracker&show_icons=true&theme=vision-friendly-dark)<br>
 
-![My Profile Views](https://gpvc.arturio.dev/addycracker)
 <br>
 <br>
 <br>
