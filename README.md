@@ -27,7 +27,7 @@
 ## 🏆 My Trophies🏆 :
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=addycracker)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
